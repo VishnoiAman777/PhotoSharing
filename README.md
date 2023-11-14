@@ -7,7 +7,7 @@ a separate album with all their photos allowing them to get the photos they need
 Upload group photos, arrange them by faces using ML and share them with ease. 🤳🤖
 
 ## Installation
-- Option 1: Use the deployed version at: https://photo-organizer.herokuapp.com/
+- Option 1(Doesn't work after HEROKU Closes the free tier): Use the deployed version at: https://photo-organizer.herokuapp.com/
 -----------------------------------------------------
 - Option 2: 
     1. ### Setting up git:
